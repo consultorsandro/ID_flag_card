@@ -1,4 +1,7 @@
 # ID_flag_card
+
+Identifica a bandeira de um Cartão de Crédito a Partir do Número do Cartão.
+
 ### Explicação do Código:
 1. **Importação do Módulo `io`**: Usado para ler a entrada do usuário.
 2. **Função `main`**: Ponto de entrada do programa.
